@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **developing my own software skills**
 
-- 🌱 I’m currently learning **Full-Stack Development**
+- 🌱 I’m currently **Full-Stack Development**
 
 - 📫 How to reach me **kudretgumusoz@gmail.com**
 
